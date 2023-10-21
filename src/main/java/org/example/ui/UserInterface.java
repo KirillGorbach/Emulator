@@ -11,7 +11,7 @@ import java.awt.*;
 public class UserInterface extends JFrame {
 
     private static final String SCREEN_NAME = "Emulator";
-    private static final String BTN_STEP_NAME = "Emulator";
+    private static final String BTN_STEP_NAME = "Step";
     private static final String BTN_LOAD_PROGRAM_NAME = "Load program";
 
     /**
